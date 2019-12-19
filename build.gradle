@@ -59,5 +59,8 @@ publishing {
 	}
 
 	repositories {
+		maven {
+			url "$projectDir/out"
+		}
 	}
 }
