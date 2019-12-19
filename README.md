@@ -1,6 +1,6 @@
 # Fabric Weird Worldgen
 
-![screenshot.png]()
+![](screenshot.png)
 
 This mod makes Minecraft's world generation ridiculous.
 
